@@ -16,13 +16,13 @@ Sometimes Masked link is not generating properly. In that case we need to use VP
 
 ```bash
 # Clone the repository 
-git clone https://github.com/jaykali/maskphish
+git clone https://github.com/Wilcgulumba/phishhook
 
 # Enter into the directory
-cd maskphish
+cd phishhook
 
 # Run the script
-bash maskphish.sh
+bash phishhook.sh
 ```
 
 <br />
@@ -39,5 +39,4 @@ bash maskphish.sh
 
 <br />
 
-## ❤️ Contributors:
 You can propose a feature request opening an issue or a pull request.
